@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'account' => 'Konto',
+  'email' => 'Email',
+  'forgot_password' => 'Zapomenuté heslo',
+  'login' => 'Přihlášení',
+  'login_first' => 'Přihlašte se',
+  'password' => 'Heslo',
+  'password_confirm' => 'Potvrzení hesla',
+  'profile' => 'Profil',
+  'register' => 'Registrace',
+  'settings' => 'Nastavení',
+  'signed_up' => 'Přihlášený',
+  'signup' => 'Přihlášení',
+  'update' => 'Aktualizace',
+  'user_account_created' => 'Uživatelský účet byl vytvořen.',
+  'user_account_is_not_confirmed' => 'Uživatelský účet není potvrzen.',
+  'user_account_updated' => 'Uživatelský účet byl aktualizován.',
+  'user_profile' => 'Uživatelský profil',
+  'username' => 'Uživatelské jméno',
+  'login_into_your_account' => 'Přihlašte se do svého účtu',
+  'password_reset' => 'Resetování hesla',
+  'password_reset_message' => 'Chcete-li obnovit své heslo, vyplňte tento formulář',
+);

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'register' => 'Register',
+  'login' => 'Login',
+  'login_first' => 'Login first',
+  'account' => 'Account',
+  'forgot_password' => 'Forgot Password',
+  'settings' => 'Settings',
+  'profile' => 'Profile',
+  'user_account_is_not_confirmed' => 'User Account is not confirmed.',
+  'user_account_updated' => 'User Account updated.',
+  'user_account_created' => 'User Account created.',
+  'email' => 'Email',
+  'password' => 'Password',
+  'password_confirm' => 'Password confirm',
+  'signed_up' => 'Signed up',
+  'signup' => 'Sign up',
+  'update' => 'Update',
+  'user_profile' => 'User profile',
+  'username' => 'Username',
+  'login_into_your_account' => 'Login into your account',
+  'password_reset_message' => 'To reset your password, complete this form',
+  'password_reset' => 'Password reset',
+);

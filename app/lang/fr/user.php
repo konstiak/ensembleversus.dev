@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'login_first' => 'Connectez-première',
+  'settings' => 'Paramètres',
+  'username' => 'Nom d\'utilisateur',
+  'email' => 'Email',
+  'password' => 'Mot de passe',
+  'password_confirm' => 'Mot de passe confirment',
+  'update' => 'Mise à jour',
+  'login' => 'Connexion',
+  'forgot_password' => 'Mot de passe oublié',
+  'profile' => 'Profil',
+  'user_profile' => 'Profil de l\'utilisateur',
+  'signed_up' => 'Signè',
+  'register' => 'S\'inscrire',
+  'signup' => 'Signer',
+  'user_account_created' => 'Compte d\'utilisateur créé.',
+  'user_account_updated' => 'Compte d\'utilisateur mis à jour.',
+  'account' => 'Compte',
+  'user_account_is_not_confirmed' => 'Compte de l\'utilisateur n\'est pas confirmée.',
+  'login_into_your_account' => 'Connectez-vous à votre compte',
+  'password_reset' => 'Mot de passe réinitialisé',
+  'password_reset_message' => 'Pour réinitialiser votre mot de passe, veuillez remplir ce formulaire',
+);

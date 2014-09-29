@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'account' => 'Konto',
+  'email' => 'E-mail',
+  'forgot_password' => 'Passwort vergessen',
+  'login' => 'Login',
+  'login_first' => 'Loggen Sie sich zuerst',
+  'password' => 'Passwort',
+  'password_confirm' => 'Passwort bestätigen',
+  'profile' => 'Profil',
+  'register' => 'Registrieren',
+  'settings' => 'Einstellungen',
+  'signed_up' => 'Registriert',
+  'signup' => 'Anmeldung',
+  'update' => 'Update',
+  'user_account_created' => 'Benutzerkonto erstellt.',
+  'user_account_is_not_confirmed' => 'Benutzerkonto wird nicht bestätigt.',
+  'user_account_updated' => 'Benutzerkonto aktualisiert.',
+  'user_profile' => 'Benutzerprofil',
+  'username' => 'Benutzername',
+  'login_into_your_account' => 'Einloggen in Ihr Konto',
+  'password_reset' => 'Passwort-Reset',
+  'password_reset_message' => 'Um Ihr Passwort zurückzusetzen, füllen Sie dieses Formular',
+);
